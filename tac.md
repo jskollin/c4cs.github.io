@@ -32,7 +32,7 @@ To change the line separator to a provided string, use the command -s followed b
 
 For example: 
 
-## '$ echo -n sam1I1am | tac -s "1"'
+## '$ echo -n sam1I1am  |  tac -s "1"'
 
 The output would be: amI1sam1
 
